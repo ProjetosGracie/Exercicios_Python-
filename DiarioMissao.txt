@@ -1,0 +1,4 @@
+Operador: Conrado gracie
+Temperatura: 45.0
+Bateria: 41.0
+Operador: NORMAL
